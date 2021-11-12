@@ -19,6 +19,7 @@
   "private": true,
   "dependencies": {
     "@layer0/react": "^4.2.0",
+    "jsforce": "^1.10.1",
     "react": "^17.0.2",
     "react-dom": "^17.0.2",
     "react-helmet": "^6.1.0",
@@ -31,6 +32,7 @@
     "@layer0/cli": "^3.16.11",
     "@layer0/core": "^3.16.11",
     "@layer0/devtools": "^3.16.11",
+    "@layer0/express": "^4.2.0",
     "@layer0/prefetch": "^3.16.11",
     "autoprefixer": "^9.8.8",
     "postcss": "^7.0.39",

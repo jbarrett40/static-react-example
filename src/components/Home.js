@@ -16,6 +16,7 @@ const Home = () => {
         <p className="text-center">
           This is an example React app powered by Layer0. Click a category above to get started.
         </p>
+        <script src="scripts/bundle.min.js"></script>
       </div>
     </>
   )
